@@ -14,7 +14,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>11</java.version>
 
-        <fastjson.version>1.2.46</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <!--要与springboot2.1.10对应-->
         <dubbo-starter.version>1.1.0</dubbo-starter.version>
         <!--要与springboot2.1.10对应-->
